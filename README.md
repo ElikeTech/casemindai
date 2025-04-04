@@ -1,0 +1,2 @@
+# casemindai
+website static
